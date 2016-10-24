@@ -1,2 +1,2 @@
-# Jon-Morris
-UCF student
+# JSPlatformer
+JS Platformer for DIG 3480C
